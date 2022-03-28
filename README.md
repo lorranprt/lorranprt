@@ -1,5 +1,5 @@
 <div align="center"
-     Hello, I'm a full-stack developer based in Brazil
+     Hello, I am a full-stack developer based in Brazil
 
 <div align="center">
   <a href="https://github.com/lorranprt">
