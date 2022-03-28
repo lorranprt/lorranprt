@@ -1,5 +1,5 @@
 <div align="center"
-     Hii! My name is Lorran, and im startin a new journey in developing.
+     Hello, I'm a full-stack developer based in Brazil
 
 <div align="center">
   <a href="https://github.com/lorranprt">
