@@ -1,6 +1,6 @@
 <div align="center"
-    <h1 Hello, I am a full-stack developer based in Brazil >
->
+    <h1 Hello, I'm currently currently data science in Brazil >
+
 <div align="center">
   <a href="https://github.com/lorranprt">
   <img height="110em" src="https://github-readme-stats.vercel.app/api?username=lorranprt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
