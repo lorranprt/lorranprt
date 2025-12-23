@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h2 align="center"> Cybersecurity Studant </h2>
 
 ###
 
@@ -11,9 +11,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aftereffects" height="60" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=photoshop" height="60" alt="photoshop logo"  />
 </div>
 
 ###
@@ -22,10 +19,4 @@
 </div>
 
 ###
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</div>
+
